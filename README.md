@@ -1,6 +1,6 @@
 # ShareBook-ChatApp
 
--ShareBook is a simple real time application with rooms.
+-ShareBook is a simple real time chatting application with rooms.
 
 -Added features to select room where multiple users of same interest can collaborate and chat in real time.
 
