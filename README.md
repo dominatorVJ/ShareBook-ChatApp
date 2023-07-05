@@ -11,14 +11,14 @@
 
 ## ScreenShots
 1.
-![SS1](https://github.com/Vishal1J/ShareBook-ChatApp/blob/main/ScreenShots/Screenshot%20(30).png?raw=true)
+![SS1](https://github.com/dominatorVJ/ShareBook-ChatApp/blob/main/ScreenShots/Screenshot%20(30).png?raw=true)
 2.
-![SS2](https://github.com/Vishal1J/ShareBook-ChatApp/blob/main/ScreenShots/Screenshot%20(31).png?raw=true)
+![SS2](https://github.com/dominatorVJ/ShareBook-ChatApp/blob/main/ScreenShots/Screenshot%20(31).png?raw=true)
 3.
-![SS3](https://github.com/Vishal1J/ShareBook-ChatApp/blob/main/ScreenShots/Screenshot%20(32).png?raw=true)
+![SS3](https://github.com/dominatorVJ/ShareBook-ChatApp/blob/main/ScreenShots/Screenshot%20(32).png?raw=true)
 4.
-![SS4](https://github.com/Vishal1J/ShareBook-ChatApp/blob/main/ScreenShots/Screenshot%20(33).png?raw=true)
+![SS4](https://github.com/dominatorVJ/ShareBook-ChatApp/blob/main/ScreenShots/Screenshot%20(33).png?raw=true)
 5.
-![SS5](https://github.com/Vishal1J/ShareBook-ChatApp/blob/main/ScreenShots/Screenshot%20(34).png?raw=true)
+![SS5](https://github.com/dominatorVJ/ShareBook-ChatApp/blob/main/ScreenShots/Screenshot%20(34).png?raw=true)
 6.
-![SS6](https://github.com/Vishal1J/ShareBook-ChatApp/blob/main/ScreenShots/Screenshot%20(35).png?raw=true)
+![SS6](https://github.com/dominatorVJ/ShareBook-ChatApp/blob/main/ScreenShots/Screenshot%20(35).png?raw=true)
